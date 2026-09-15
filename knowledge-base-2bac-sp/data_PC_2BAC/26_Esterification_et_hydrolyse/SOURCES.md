@@ -18,3 +18,6 @@ statut: "complet v2 (scission P26/P27, liens vérifiés)"
 
 > Règle d'honnêteté : seuls les liens ci-dessus ont été vérifiés. Les sections profondes AlloSchool par chapitre seront figées en Phase 3 — aucun URL n'est inventé.
 > Chapitre jumeau : `27_Controle_evolution_systeme_chimique` (excès, élimination, anhydride, rendement, tests). Exemple-roi : P19 ($K = 4$).
+
+## VRAIE intégrées (bonus Part 19)
+- **2025R Ex1-P2** (estérification, reconstitué-corrigé Tier B) : https://fr.scribd.com/document/889488300/Correction-de-National-de-PC-Filiere-SP-Session-Rattrapage-2025 (rendement à recouper).

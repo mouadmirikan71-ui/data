@@ -19,3 +19,7 @@ statut: "complet v2 (scission P21/P22, liens vérifiés)"
 
 > Règle d'honnêteté : seuls les liens ci-dessus ont été vérifiés. Les sections profondes AlloSchool par chapitre seront figées en Phase 3 — aucun URL n'est inventé.
 > Chapitre jumeau : `22_Dosages_acido_basiques` (équivalence, $pH_{éq}$, demi-éq $= pK_a$, indicateurs).
+
+## VRAIE intégrées (bonus Part 19)
+- **2024R Ex1-Partie 2** (base R-NH2, pKA=10.8, reconstitué-corrigé Tier B) : https://fr.scribd.com/document/831498939/Correction-de-l-Examen-Session-Rattrapage-SPF-2024-VF
+- **2025R Ex1-P1** (acide éthanoïque, pKA=4.8, reconstitué-corrigé Tier B) : https://fr.scribd.com/document/889488300/Correction-de-National-de-PC-Filiere-SP-Session-Rattrapage-2025

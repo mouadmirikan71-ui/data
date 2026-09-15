@@ -59,6 +59,21 @@ b) $T_p = 10$ $\mu$s, $T_s = 1,0$ ms, $RC = 10^4 \times 10^{-8} = 0,10$ ms. **M�
 c) $RC = 10$ ms $> T_s = 1,0$ ms → $RC$ TROP GRAND → $\boxed{\text{écrêtage}}$ (descentes plates : la décharge ne suit plus !).
 🪤 *Piège testé : « $RC = 0,10$ ms $< T_s$ donc bon » (UNE seule inégalité vérifiée !) — il faut LES DEUX côtés ($T_p \ll RC$ ET $RC \ll T_s$) : $RC = 1$ $\mu$s passerait le 2e test mais pas le 1er (ondulation !).*
 
+## VRAIE — 2025R Ex3-Partie II (modulation AM : $F$, $f$, $A$, $m$)
+
+🏷️ matière=PC · année=2025 · session=R · chapitre=P9 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★ · barème=Q1 0,5 · Q2 0,75
+
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (correction provinciale Mohammedia, scribd 889488300, Tier B). $F$ et $m$ : AN source illisibles, valeurs **recalculées** (à recouper) ; $f$, $A$, conclusion : lues.
+> Données (reconstituées) : signal modulé en amplitude observé à l'oscilloscope ($T_s$ porteuse, $T_m$ enveloppe, $U_{max}$/$U_{min}$).
+
+**Q1.** Déterminer la fréquence $F$ de la porteuse et $f$ du signal modulant. (2×0,25)
+**Q2.** Déterminer $A$ et le taux de modulation $m$. La modulation est-elle bonne ? (3×0,25)
+**Corrigé-type :**
+1. $F = 1/T_s$ ($T_s = 5\ \mu$s lus) → $\boxed{F \approx 2\times 10^5\text{ Hz}}$ (recalculé) ; $f = 1/T_m$ ($T_m = 0,6$ ms) → $\boxed{f = 1667\text{ Hz}}$.
+2. $U_{max} = A(1+m)$, $U_{min} = A(1-m)$ → $A = (U_{max}+U_{min})/2 = \boxed{1\text{ V}}$ ; $m = (U_{max}-U_{min})/(U_{max}+U_{min}) \approx \boxed{0,45}$ (à recouper). $\boxed{\text{Bonne modulation}}$ : $m < 1$ ET $F > 10f$ ($2\times 10^5 \gg 16670$ ✔).
+🪤 *Piège testé : $T_s$ confondue avec $T_m$ (porteuse = petites oscillations rapides !) ; $m$ sans les 2 conditions (m<1 SEUL ne suffit pas !).*
+🗣️ الخلاصة : الحاملة سريعة ($F \approx 200$ kHz!) والمعدِّلة بطيئة ($f = 1667$ Hz)! $A = 1$ V و$m \approx 0,45$! والتضمين **مزيان**: $m < 1$ **و** $F > 10f$ (بجوج الشروط!)!
+
 ## 🪤 Pièges testés par question
 
 | Exo | Piège | Réflexe |
@@ -69,6 +84,7 @@ c) $RC = 10$ ms $> T_s = 1,0$ ms → $RC$ TROP GRAND → $\boxed{\text{écrêtag
 | R4 | Go ÷ Mbit/s | tout en bits d'abord |
 | R5 | 1 seule inégalité | $T_p \ll RC \ll T_s$ : LES DEUX ! |
 | R5 | écrêtage/ondulation inversés | grand $RC$ = paresseux (écrête) |
+| 2025R | $T_s \leftrightarrow T_m$ | porteuse = rapide ; $m<1$ ET $F>10f$ |
 
 ## VRAIE — 2021N Ex4-III (modulation AM : 1500/125 Hz)
 

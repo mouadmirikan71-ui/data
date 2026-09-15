@@ -47,6 +47,40 @@ $AH + H_2O \rightleftharpoons A^- + H_3O^+$ : $\tau = 10^{-2{,}88}/0{,}1 = 1{,}3
 $CH_3COOH$ ($C_A = 0{,}05$, $pH = 3{,}05$) : $\alpha = 1-\tau = 1-10^{-3{,}05}/0{,}05 = 98{,}2\%$ (quasi non dissocié !) ; $K_{A1} = 10^{-2pH}/(C_A-10^{-pH})$ → $pK_{A1} = 4{,}79}$. Réaction $CH_3COOH + HCOO^- \rightleftharpoons CH_3COO^- + HCOOH$ : $Q_{r,éq} = K_{A1}/K_{A2} = 10^{3{,}75-4{,}79} = 9{,}1\times10^{-2}$. Double Henderson (rapports inverses, logs annulés !) : $pH = (4{,}79+3{,}75)/2 = 4{,}27$.
 🪤 *vraie : $Q_r = K_{A1}/K_{A2}$ (diviser les 2 Ka !) ; $pH$ moyen quand les rapports se compensent.*
 
+## VRAIE — 2024R Ex1-Partie 2 (base $R\text{-}NH_2$ : $pK_A$ + prédominance)
+
+🏷️ matière=PC · année=2024 · session=R · chapitre=P21 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★★ · barème=1-1 0,5 · 1-2-1 0,5 · 1-2-2 0,25 · 1-2-3 0,75
+
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (correction provinciale Mohammedia, scribd 831498939, Tier B). AN 1-2-3 recalculée.
+> Données (reconstituées) : solution aqueuse d'une base (amine $R\text{-}NH_2$) ; courbes $\alpha = f(pH)$ fournies.
+
+**1-1.** Équation de la réaction avec l'eau. (0,5)
+**1-2-1.** Montrer que $pK_A = 10,8$ (courbes). (0,5)
+**1-2-2.** Espèce prédominante à pH = 11,88. (0,25)
+**1-2-3.** pH pour lequel $[R\text{-}NH_3^+] = 4[R\text{-}NH_2]$. (0,5+0,25)
+**Corrigé-type :**
+1. $\boxed{R\text{-}NH_2 + H_2O \rightleftharpoons R\text{-}NH_3^+ + OH^-}$.
+2. À l'intersection $\alpha_{acide} = \alpha_{base}$ → $[A] = [B]$ → pH = $pK_A$ → projection : $\boxed{pK_A = 10,8}$.
+3. pH = 11,88 > 10,8 → $\boxed{\text{base } R\text{-}NH_2 \text{ prédomine}}$.
+4. pH $= pK_A + \log\frac{[B]}{[A]} = 10,8 + \log\frac{1}{4} = 10,8 - 0,60 = \boxed{10,2}$ (recalculé).
+🪤 *Piège testé : Henderson avec $[B]/[A]$ inversé ($[BH^+]$ = l'ACIDE, au dénominateur !) ; intersection lue sur le mauvais axe (c'est l'ABSCISSE pH !).*
+🗣️ الخلاصة : التقاطع ($[A] = [B]$) ← pH = $pK_A = 10,8$! pH كبير ($11,88$) ← **القاعدة هي الغالبة**! وpH = $10,8 + \log(1/4) = 10,2$! الفخ: $[BH^+]$ هو **الحمض** (المقام!) ماشي القاعدة!
+
+## VRAIE — 2025R Ex1-P1 (acide éthanoïque : $K_A$, $pK_A$, dilution)
+
+🏷️ matière=PC · année=2025 · session=R · chapitre=P21 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★★ · barème=voir questions
+
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 889488300, Tier B). $K_A$/$pK_A$ lus ; AN de $\tau$ non relue (démarche seule).
+> Données (reconstituées) : solution d'acide éthanoïque $C_A$ ; courbes de distribution ; dilution testée.
+
+**Q1.** Taux d'avancement $\tau$ (tableau d'avancement : $\tau = x_{éq}/x_{max} = [H_3O^+]/C_A$).
+**Q2.** Constante $K_A$ puis $pK_A$ (tableau : $[CH_3COO^-] = [H_3O^+] = 10^{-pH}$, $[CH_3COOH] = C_A - 10^{-pH}$).
+**Q3.** Retrouver $pK_A$ graphiquement (intersection) ; identifier la courbe de l'acide à pH < $pK_A$.
+**Q4.** Effet d'une dilution sur $\tau$ (courbes : $\tau_1 = \alpha = 20\ \%$ après dilution).
+**Corrigé-type :** $K_A = \frac{10^{-2pH}}{C_A - 10^{-pH}} \approx 1,6\times 10^{-5}$ → $\boxed{pK_A = 4,8}$ (lu + graphique ✔) ; à pH < $pK_A$ : $\boxed{\text{acide majoritaire (courbe 1)}}$ ; dilution → $\boxed{\tau \nearrow}$ (20 %) : diluer un acide faible l'ionise MIEUX (Le Chatelier !).
+🪤 *Piège testé : $K_A$ avec $[H_2O]$ (omis : solvant !) ; « dilution → $\tau$ baisse » (c'est l'INVERSE pour les faibles !).*
+🗣️ الخلاصة : $K_A$ من جدول التقدم ← $pK_A = 4,8$ (والمنحنيات كتأكدو)! pH صغير ← الحمض غالب! والتخفيف ← **$\tau$ كيطلع** (الحمض الضعيف كيتأين حسن ملي كيتخفف — عكس الحدس)!
+
 ## 🪤 Pièges testés par question
 
 | Exo | Piège | Réflexe |
@@ -55,3 +89,5 @@ $CH_3COOH$ ($C_A = 0{,}05$, $pH = 3{,}05$) : $\alpha = 1-\tau = 1-10^{-3{,}05}/0
 | R2 | rapport inversé | $B = A^-$, $A = AH$ d'abord ! |
 | 2021N | $K_a \neq Q_{r,éq}$ | $K_a = C\tau^2/(1-\tau)$ |
 | 2023N | 2 Henderson séparés | rapports inverses → moyenne ! |
+| 2024R | $[BH^+]$ = base | acide (dénominateur !) ; abscisse = pH |
+| 2025R | dilution → $\tau\searrow$ | faible dilué : $\tau\nearrow$ ! |

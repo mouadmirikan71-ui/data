@@ -48,6 +48,23 @@
 $CH_3COOH + CH_3OH \rightleftharpoons CH_3COOCH_3 + H_2O$ (ester méthylique !). $n_0 = 0{,}9$ mol, $x_f = 0{,}6$ → $r = 66{,}7\%$ (limitée, $K = 4$ — cf P19 !). Catalyseur : courbe $C_1$ (plus rapide, même $r$ — P17 !).
 🪤 *vraie : méthanol = alcool (estérification !) ; $r$ via $n_{af}$ lu sur graphe.*
 
+## VRAIE — 2025R Ex1-P2 (estérification : équation + rendement)
+
+🏷️ matière=PC · année=2025 · session=R · chapitre=P26 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★ · barème=2-1 0,75 · 2-2 0,5 · 2-3 0,75
+
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 889488300, Tier B). Rendement : AN à recouper.
+> Données (reconstituées) : estérification acide éthanoïque + alcool (formules semi-développées exigées) ; dosage de l'acide restant.
+
+**2-1.** Équation (semi-développées). (0,75)
+**2-2.** Quantité d'acide restant (dosage : $n = C\times V_E$). (0,5)
+**2-3.** Rendement $r$. (0,75)
+**Corrigé-type :**
+1. $\boxed{CH_3\text{-}COOH + R\text{-}OH \rightleftharpoons CH_3\text{-}COO\text{-}R + H_2O}$ (lente, limitée, athermique !).
+2. $n_{restant} = C_{dosage}\times V_E$ (à recouper).
+3. $r = \frac{n_{ester}}{n_0} = \frac{n_0 - n_{restant}}{n_0} \approx \boxed{67\ \%}$ (AN à recouper — ordre de grandeur d'équilibre).
+🪤 *Piège testé : formules brutes (les SEMI-DÉVELOPPÉES sont notées !) ; $r$ avec $n_{restant}$ au numérateur (c'est le TRANSFORMÉ : $n_0 - n_{restant}$ !).*
+🗣️ الخلاصة : الأسترة بطيئة ومحدودة! المعادلة **شبه منشورة** (منقطة!)! والباقي بالمعايرة ($n = CV_E$)! والمردود = المتحول على الابتدائي ($\approx 67\%$)! الفخ: الصيغ المجملة (ناقصة!) والبسط المقلوب!
+
 ## 🪤 Pièges testés par question
 
 | Exo | Piège | Réflexe |
@@ -56,3 +73,4 @@ $CH_3COOH + CH_3OH \rightleftharpoons CH_3COOCH_3 + H_2O$ (ester méthylique !).
 | R2 | coeff ×2 oublié | par molécule ! |
 | R3 | $\Delta < 0$ (signe !) | développer soigneux + rejeter $< 0$ |
 | 2023N | méthanol ≠ alcool | $CH_3OH$ = alcool ! |
+| 2025R | formules brutes | semi-développées ; $r$ = transformé/$n_0$ |

@@ -48,6 +48,25 @@
 2 courbes $n_a(t)$ : $C_1$ = avec catalyseur (même palier $n_{af} = 0{,}3$, atteint PLUS VITE !). $t_{1/2}$ : $x = x_f/2 = 0{,}3$ → $n_a = 0{,}9-0{,}3 = 0{,}6$ → projection → $t_{1/2} = 3{,}5$ h.
 🪤 *vraie : catalyseur = même palier (bilan !), pente plus raide ; $t_{1/2}$ via $n_a$ (pas $x$ direct !).*
 
+## VRAIE — 2025R Ex1-P3 (hydrolyse basique : $t_{1/2}$ + vitesse)
+
+🏷️ matière=PC · année=2025 · session=R · chapitre=P17 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★★ · barème=3-1 0,5 · 3-2 0,5 · 3-3 0,5 · 3-4 0,75
+
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 889488300, Tier B). AN $t_{1/2}$/vitesse à recouper (source illisible).
+> Données (reconstituées) : hydrolyse basique de l'ester (saponification) ; courbe $n = f(t)$ ou $[~] = f(t)$ ; affirmation à juger.
+
+**3-1.** Équation (semi-développées). (0,5)
+**3-2.** « La concentration des réactifs diminue au cours du temps » : vrai ? Justifier. (0,5)
+**3-3.** Temps de demi-réaction $t_{1/2}$ par projection. (0,5)
+**3-4.** Vitesse volumique à $t$ donné (tangente). (0,75)
+**Corrigé-type :**
+1. $\boxed{CH_3\text{-}COO\text{-}R + OH^- \to CH_3\text{-}COO^- + R\text{-}OH}$ (totale, rapide !).
+2. $\boxed{VRAI}$ : réactifs consommés → $[]\searrow$ (lecture directe de la courbe !).
+3. $t_{1/2}$ : $x = x_{max}/2$ → projection → $\approx 20$ min (à recouper).
+4. $v = \frac{1}{V}\frac{dx}{dt}$ : pente de la TANGENTE à $t$ donné (AN à recouper ; unités : mol·L⁻¹·min⁻¹ !).
+🪤 *Piège testé : $t_{1/2}$ = « moitié du temps total » (c'est $x_{max}/2$ par PROJECTION !) ; vitesse = $x/t$ (pente SÉCANTE — c'est la TANGENTE !) ; $1/V$ oublié (volumique !).*
+🗣️ الخلاصة : التصبن كلي وسريع! $t_{1/2}$: نص التحول بالإسقاط (ماشي نص الزمن)! والسرعة: ميل **المماس** مقسوم على $V$ (الحجمية)! الفخ: $x/t$ (القاطع!) و$t_{1/2}$ بالتخمين!
+
 ## 🪤 Pièges testés par question
 
 | Exo | Piège | Réflexe |
@@ -56,3 +75,4 @@
 | R2 | catalyseur → bilan | bilan inchangé ! (M2 : $v_{moy}$) |
 | R3 | dilution → $x_{max}$ ÷2 | $x_{max}$ = $n_0$, pas $[]$ ! |
 | 2023N | catalyseur = palier ↑ | même palier, plus tôt ! |
+| 2025R | $t_{1/2}$ = $t_{tot}/2$ | $x_{max}/2$ projeté ; tangente + $1/V$ |

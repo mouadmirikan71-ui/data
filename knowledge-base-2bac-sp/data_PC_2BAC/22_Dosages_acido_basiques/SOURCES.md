@@ -18,3 +18,6 @@ statut: "complet v2 (scission P21/P22, liens vérifiés)"
 
 > Règle d'honnêteté : seuls les liens ci-dessus ont été vérifiés. Les sections profondes AlloSchool par chapitre seront figées en Phase 3 — aucun URL n'est inventé.
 > Chapitre jumeau : `21_Transformations_acide_base` ($pH$, $K_a$, Henderson). Suivi : P18 ($pH = f(V)$).
+
+## VRAIE intégrées (bonus Part 19)
+- **2024R Ex1-Partie 2** (dosage base, VE=20 mL, reconstitué-corrigé Tier B) : https://fr.scribd.com/document/831498939/Correction-de-l-Examen-Session-Rattrapage-SPF-2024-VF

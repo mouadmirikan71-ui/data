@@ -19,3 +19,6 @@ statut: "complet v2 - modulation + demodulation"
 
 **Backfill prevu** : questions modulation/demodulation verbatim du national PC (oscillogrammes AM, choix de $RC$ — sessions 2023-2025 prioritaires).
 **Liens** : P01/P02 (ondes : porteuse !), P03 (fibre : Snell-Descartes), P06 (RC : $\tau = RC$ !), P08 (tuner : resonnance !), M05 (log/dB), M02 (spectre : $\cos A\cos B$).
+
+## VRAIE intégrées (bonus Part 19)
+- **2025R Ex3-Partie II** (modulation AM, reconstitué-corrigé Tier B) : https://fr.scribd.com/document/889488300/Correction-de-National-de-PC-Filiere-SP-Session-Rattrapage-2025 (F et m recalculés).

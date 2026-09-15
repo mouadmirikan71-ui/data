@@ -18,3 +18,6 @@ statut: "complet v2 (scission P17/P18, liens vérifiés)"
 
 > Règle d'honnêteté : seuls les liens ci-dessus ont été vérifiés. Les sections profondes AlloSchool par chapitre seront figées en Phase 3 — aucun URL n'est inventé.
 > Chapitre jumeau : `18_Suivi_temporel_vitesse_reaction` (suivi, $v = (1/V)(dx/dt)$, $t_{1/2}$ sur courbes).
+
+## VRAIE intégrées (bonus Part 19)
+- **2025R Ex1-P3** (hydrolyse basique, reconstitué-corrigé Tier B) : https://fr.scribd.com/document/889488300/Correction-de-National-de-PC-Filiere-SP-Session-Rattrapage-2025 (AN t1/2 et vitesse à recouper).

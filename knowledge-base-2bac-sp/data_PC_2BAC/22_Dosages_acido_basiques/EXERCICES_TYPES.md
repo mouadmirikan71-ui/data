@@ -57,6 +57,23 @@ Dosage $AH$ par $HO^-$ ($C_b = 0{,}1$, $V_a = 20$ mL) : $pH_{éq} = 8{,}8$, $V_{
 🪤 *vraie : $V_{b1}$ par lecture inverse ($pH \to V_b$) ; $[B]/[A] = V_b/(V_{bE}-V_b)$ (versé/restant !).*
 > Complément acide-base ($\tau$, $K_a = Q_{r,éq}$, $pK_a$, identité) → P21 (VRAIE 2021N Ex1-P2).
 
+## VRAIE — 2024R Ex1-Partie 2 (dosage de $R\text{-}NH_2$ : $V_E$ + $x_f$)
+
+🏷️ matière=PC · année=2024 · session=R · chapitre=P22 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★★ · barème=2-1 0,5 · 2-2 0,75 · 2-3 0,5+
+
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 831498939, Tier B). $V_E$ lu ; concentrations non relues.
+> Données (reconstituées) : dosage de la base $R\text{-}NH_2$ ($C_B$, $V_B$) par $H_3O^+$ fort ($C_A$, $V_A$) ; suivi pH-métrique.
+
+**2-1.** Équation du dosage. (0,5)
+**2-2.** Volume équivalent $V_E$. (0,75)
+**2-3.** Expression de l'avancement final $x_f$ en fonction de $C_A$, $V_A$, $V_B$, pH.
+**Corrigé-type :**
+1. $\boxed{R\text{-}NH_2 + H_3O^+ \to R\text{-}NH_3^+ + H_2O}$ (totale !).
+2. À l'équivalence : $C_AV_E = C_BV_B$ → $V_E = \boxed{20\text{ mL}}$ (AN officielle).
+3. Tableau : $n(H_3O^+)_{restant} = C_AV_A - x_f = [H_3O^+]_f(V_A+V_B)$ → $\boxed{x_f = C_AV_A - 10^{-pH}(V_A+V_B)}$ (restes = versé − consommé !).
+🪤 *Piège testé : $V_{tot} = V_B$ ($V_A+V_B$ : les deux versements !) ; $x_f = x_{max}$ (non : $x_f$ à un point QUELCONQUE via le pH !).*
+🗣️ الخلاصة : المعايرة كلية! $V_E = 20$ mL ($C_AV_E = C_BV_B$)! و$x_f$ فأي نقطة: المصبوب ناقص الباقي ($10^{-pH}\times V_{tot}$)! الفخ: $V_{tot} = V_A+V_B$ (بجوج!) ماشي $V_B$ بوحدو!
+
 ## 🪤 Pièges testés par question
 
 | Exo | Piège | Réflexe |
@@ -66,3 +83,4 @@ Dosage $AH$ par $HO^-$ ($C_b = 0{,}1$, $V_a = 20$ mL) : $pH_{éq} = 8{,}8$, $V_{
 | R3 | zone sous le saut | zone $\ni$ $pH_{éq}$ |
 | R4 | $[B]/[A] = 6/20$ | versé/restant : $6/14$ ! |
 | 2021N | lecture directe $V_{b1}$ | inverse : $pH \to V_b$ |
+| 2024R | $V_{tot} = V_B$ | $V_A+V_B$ ; $x_f$ = versé − restant |
