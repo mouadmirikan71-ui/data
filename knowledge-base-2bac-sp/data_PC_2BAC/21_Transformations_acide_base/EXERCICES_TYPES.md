@@ -51,7 +51,7 @@ $CH_3COOH$ ($C_A = 0{,}05$, $pH = 3{,}05$) : $\alpha = 1-\tau = 1-10^{-3{,}05}/0
 
 🏷️ matière=PC · année=2024 · session=R · chapitre=P21 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★★ · barème=1-1 0,5 · 1-2-1 0,5 · 1-2-2 0,25 · 1-2-3 0,75
 
-> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (correction provinciale Mohammedia, scribd 831498939, Tier B). AN 1-2-3 recalculée.
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (correction provinciale Mohammedia, scribd 831498939, Tier B). AN 1-2-3 : ✔ revérifiée 2026-09-15 ($10{,}8 + \log(1/4) = 10{,}198 \to 10{,}2$ — valeur officielle source non relue).
 > Données (reconstituées) : solution aqueuse d'une base (amine $R\text{-}NH_2$) ; courbes $\alpha = f(pH)$ fournies.
 
 **1-1.** Équation de la réaction avec l'eau. (0,5)
@@ -62,7 +62,7 @@ $CH_3COOH$ ($C_A = 0{,}05$, $pH = 3{,}05$) : $\alpha = 1-\tau = 1-10^{-3{,}05}/0
 1. $\boxed{R\text{-}NH_2 + H_2O \rightleftharpoons R\text{-}NH_3^+ + OH^-}$.
 2. À l'intersection $\alpha_{acide} = \alpha_{base}$ → $[A] = [B]$ → pH = $pK_A$ → projection : $\boxed{pK_A = 10,8}$.
 3. pH = 11,88 > 10,8 → $\boxed{\text{base } R\text{-}NH_2 \text{ prédomine}}$.
-4. pH $= pK_A + \log\frac{[B]}{[A]} = 10,8 + \log\frac{1}{4} = 10,8 - 0,60 = \boxed{10,2}$ (recalculé).
+4. pH $= pK_A + \log\frac{[B]}{[A]} = 10,8 + \log\frac{1}{4} = 10,8 - 0,60 = \boxed{10,2}$ ✔ (revérifié : $10{,}8-0{,}60 = 10{,}198$).
 🪤 *Piège testé : Henderson avec $[B]/[A]$ inversé ($[BH^+]$ = l'ACIDE, au dénominateur !) ; intersection lue sur le mauvais axe (c'est l'ABSCISSE pH !).*
 🗣️ الخلاصة : التقاطع ($[A] = [B]$) ← pH = $pK_A = 10,8$! pH كبير ($11,88$) ← **القاعدة هي الغالبة**! وpH = $10,8 + \log(1/4) = 10,2$! الفخ: $[BH^+]$ هو **الحمض** (المقام!) ماشي القاعدة!
 

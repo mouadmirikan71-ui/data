@@ -52,7 +52,7 @@ $CH_3COOH + CH_3OH \rightleftharpoons CH_3COOCH_3 + H_2O$ (ester méthylique !).
 
 🏷️ matière=PC · année=2025 · session=R · chapitre=P26 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★ · barème=2-1 0,75 · 2-2 0,5 · 2-3 0,75
 
-> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 889488300, Tier B). Rendement : AN à recouper.
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 889488300, Tier B). Rendement : $n_0$ et $n_{restant}$ source illisibles → **énoncé partiellement ambigu** ; $r$ ≈ 67 % = ordre de grandeur d'équilibre théorique (à remplacer par l'AN officielle si le sujet est retrouvé).
 > Données (reconstituées) : estérification acide éthanoïque + alcool (formules semi-développées exigées) ; dosage de l'acide restant.
 
 **2-1.** Équation (semi-développées). (0,75)
@@ -60,8 +60,8 @@ $CH_3COOH + CH_3OH \rightleftharpoons CH_3COOCH_3 + H_2O$ (ester méthylique !).
 **2-3.** Rendement $r$. (0,75)
 **Corrigé-type :**
 1. $\boxed{CH_3\text{-}COOH + R\text{-}OH \rightleftharpoons CH_3\text{-}COO\text{-}R + H_2O}$ (lente, limitée, athermique !).
-2. $n_{restant} = C_{dosage}\times V_E$ (à recouper).
-3. $r = \frac{n_{ester}}{n_0} = \frac{n_0 - n_{restant}}{n_0} \approx \boxed{67\ \%}$ (AN à recouper — ordre de grandeur d'équilibre).
+2. $n_{restant} = C_{dosage}\times V_E$ (AN non relue — voir note).
+3. $r = \frac{n_{ester}}{n_0} = \frac{n_0 - n_{restant}}{n_0} \approx \boxed{67\ \%}$ (⚠️ pas une lecture : ordre de grandeur théorique, énoncé ambigu).
 🪤 *Piège testé : formules brutes (les SEMI-DÉVELOPPÉES sont notées !) ; $r$ avec $n_{restant}$ au numérateur (c'est le TRANSFORMÉ : $n_0 - n_{restant}$ !).*
 🗣️ الخلاصة : الأسترة بطيئة ومحدودة! المعادلة **شبه منشورة** (منقطة!)! والباقي بالمعايرة ($n = CV_E$)! والمردود = المتحول على الابتدائي ($\approx 67\%$)! الفخ: الصيغ المجملة (ناقصة!) والبسط المقلوب!
 

@@ -67,10 +67,10 @@
 
 🏷️ matière=PC · année=2022 · session=N · chapitre=P25 · type=VRAIE · fidélité=reconstitué-corrigé · type_question=chromage-cathode-masse · niveau=★★★ · compétence=identifier-cathode+stœchiométrie-e⁻ · barème=partie de l'Ex1/7 (reste = P21 propanoïque)
 
-> Reconstituée d'après la correction détaillée (Pr Moujahid, scribd) — questions, équations et AN fidèles ($m = 2{,}58$ g) ; énoncé exact à recouper sur le PDF officiel.
+> Reconstituée d'après la correction détaillée (Pr Moujahid, scribd) — questions et équations fidèles ; $m = 2{,}59$ g (⚠️ CORRIGÉ le 2026-09-15 : 2,58 erroné — $2\times7200\times52/(3\times96500) = 2{,}5865$ → 2,59 à 3 c.s.) ; énoncé exact à recouper sur le PDF officiel.
 **1. Cathode ?** On observe un dépôt de chrome sur la plaque d'acier → réduction $Cr^{3+} + 3e^- \to Cr$ → **la plaque est la CATHODE** (branchée au −).
 **2. Équations.** Anode (graphite) : $\boxed{2H_2O \to O_2 + 4H^+ + 4e^-}$ (oxydation). Cathode (acier) : $\boxed{Cr^{3+} + 3e^- \to Cr}$ (réduction).
-**3. Masse déposée.** $Q = n(e^-)F = It$ → tableau d'avancement : $n(e^-) = 3x$ → $x = It/3F$ → $m = xM(Cr) = ItM/3F$. AN ($I = 2$ A, $\Delta t = 2$ h, $M = 52$) : $m = 2\times7200\times52/(3\times96500) = \boxed{2{,}58\text{ g}}$.
+**3. Masse déposée.** $Q = n(e^-)F = It$ → tableau d'avancement : $n(e^-) = 3x$ → $x = It/3F$ → $m = xM(Cr) = ItM/3F$. AN ($I = 2$ A, $\Delta t = 2$ h, $M = 52$) : $m = 2\times7200\times52/(3\times96500) = 748800/289500 = \boxed{2{,}59\text{ g}}$.
 🪤 *vraie : cathode identifiée par l'OBSERVATION (le dépôt !), pas par le schéma ; $\nu = 3$ pour Cr (pas 2 !) ; $\Delta t$ en secondes ($2$ h $= 7200$ s).*
 🗣️ الخلاصة : الوطني كيقولك «ترسيب على الصفيحة» = هي **الكاثود** — والكروم بثمن 3 إلكترونات ($m = ItM/3F$).
 

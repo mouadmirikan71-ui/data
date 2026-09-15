@@ -48,9 +48,10 @@ FR exact bac + Darija imagée + exemple d'usage, par matière.
 3. M09/M08/M10 : 0 VRAIE-verbatim (volumes/linéarisation/ED absents 2020–2026 Tier A).
 4. Sessions SVT 2022N/2021N/2020N/2019/2025N/2024N : domaines non documentés.
 5. Tier C Math (32 sessions) : estimé pur — à remplacer par lecture réelle si sources.
-6. AN « à recouper » : P09 (F, m), P26 (r), P17 (t1/2, v), P22 (concentrations), P12 (α).
+6. AN re-vérifiées de zéro le 2026-09-15 : ✔ P21-2024R pH=10,2 · P09 F=2×10⁵/f=1667 · P07/P12-traj/P14/P24/M02/M05/M08/M09/M10/S08 cohérents ; ⚠️ CORRIGÉS : P15 θm 0,17→0,14 (+J=3,23×10⁻² déduit, θ̇ 0→0,22) · P25 chromage 2,58→2,59 g ; ❓ énoncés partiellement ambigus — source illisible, méthode seule, AUCUNE valeur inventée : P09 m · P26 r · P17 t1/2+v · P22 concentrations · P12 α.
 
 ## 7. Prochaine étape proposée
 
 Intégration RAG/Gemini à planifier ensemble (chunking, injection context-window,
-évaluation) — la base est gelée et taguée pour ça.
+évaluation) — la base est **gelée le 2026-09-15** : incident Git expliqué + précaution
+(CHANGELOG.md), toutes les AN vérifiées/corrigées/ambiguïtés documentées.

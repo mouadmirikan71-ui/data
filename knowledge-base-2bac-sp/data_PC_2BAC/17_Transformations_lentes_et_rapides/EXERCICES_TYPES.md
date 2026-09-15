@@ -52,7 +52,7 @@
 
 🏷️ matière=PC · année=2025 · session=R · chapitre=P17 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★★ · barème=3-1 0,5 · 3-2 0,5 · 3-3 0,5 · 3-4 0,75
 
-> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 889488300, Tier B). AN $t_{1/2}$/vitesse à recouper (source illisible).
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (scribd 889488300, Tier B). Courbe $n = f(t)$ source illisible → **énoncé partiellement ambigu** : $t_{1/2}$ ≈ 20 min = ordre de grandeur graphique indicatif, $v$ = méthode seule (pas d'AN).
 > Données (reconstituées) : hydrolyse basique de l'ester (saponification) ; courbe $n = f(t)$ ou $[~] = f(t)$ ; affirmation à juger.
 
 **3-1.** Équation (semi-développées). (0,5)
@@ -62,8 +62,8 @@
 **Corrigé-type :**
 1. $\boxed{CH_3\text{-}COO\text{-}R + OH^- \to CH_3\text{-}COO^- + R\text{-}OH}$ (totale, rapide !).
 2. $\boxed{VRAI}$ : réactifs consommés → $[]\searrow$ (lecture directe de la courbe !).
-3. $t_{1/2}$ : $x = x_{max}/2$ → projection → $\approx 20$ min (à recouper).
-4. $v = \frac{1}{V}\frac{dx}{dt}$ : pente de la TANGENTE à $t$ donné (AN à recouper ; unités : mol·L⁻¹·min⁻¹ !).
+3. $t_{1/2}$ : $x = x_{max}/2$ → projection → $\approx 20$ min (⚠️ indicatif — courbe non relue).
+4. $v = \frac{1}{V}\frac{dx}{dt}$ : pente de la TANGENTE à $t$ donné (pas d'AN — courbe non relue ; unités : mol·L⁻¹·min⁻¹ !).
 🪤 *Piège testé : $t_{1/2}$ = « moitié du temps total » (c'est $x_{max}/2$ par PROJECTION !) ; vitesse = $x/t$ (pente SÉCANTE — c'est la TANGENTE !) ; $1/V$ oublié (volumique !).*
 🗣️ الخلاصة : التصبن كلي وسريع! $t_{1/2}$: نص التحول بالإسقاط (ماشي نص الزمن)! والسرعة: ميل **المماس** مقسوم على $V$ (الحجمية)! الفخ: $x/t$ (القاطع!) و$t_{1/2}$ بالتخمين!
 

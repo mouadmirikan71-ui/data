@@ -63,14 +63,14 @@ c) $RC = 10$ ms $> T_s = 1,0$ ms → $RC$ TROP GRAND → $\boxed{\text{écrêtag
 
 🏷️ matière=PC · année=2025 · session=R · chapitre=P9 · type=VRAIE · fidélité=reconstitué-corrigé · niveau=★★ · barème=Q1 0,5 · Q2 0,75
 
-> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (correction provinciale Mohammedia, scribd 889488300, Tier B). $F$ et $m$ : AN source illisibles, valeurs **recalculées** (à recouper) ; $f$, $A$, conclusion : lues.
+> ⚠️ **Reconstituée** depuis les éléments de réponse officiels (correction provinciale Mohammedia, scribd 889488300, Tier B). $F = 1/5\,\mu$s $= 2\times10^5$ Hz : ✔ revérifiée 2026-09-15 ; $m$ ≈ 0,45 : $U_{max}$/$U_{min}$ source illisibles → **énoncé partiellement ambigu** (cohérent avec $A = 1$ V lue, mais pas une lecture) ; $f = 1667$ Hz : ✔ ; $A$, conclusion : lues.
 > Données (reconstituées) : signal modulé en amplitude observé à l'oscilloscope ($T_s$ porteuse, $T_m$ enveloppe, $U_{max}$/$U_{min}$).
 
 **Q1.** Déterminer la fréquence $F$ de la porteuse et $f$ du signal modulant. (2×0,25)
 **Q2.** Déterminer $A$ et le taux de modulation $m$. La modulation est-elle bonne ? (3×0,25)
 **Corrigé-type :**
-1. $F = 1/T_s$ ($T_s = 5\ \mu$s lus) → $\boxed{F \approx 2\times 10^5\text{ Hz}}$ (recalculé) ; $f = 1/T_m$ ($T_m = 0,6$ ms) → $\boxed{f = 1667\text{ Hz}}$.
-2. $U_{max} = A(1+m)$, $U_{min} = A(1-m)$ → $A = (U_{max}+U_{min})/2 = \boxed{1\text{ V}}$ ; $m = (U_{max}-U_{min})/(U_{max}+U_{min}) \approx \boxed{0,45}$ (à recouper). $\boxed{\text{Bonne modulation}}$ : $m < 1$ ET $F > 10f$ ($2\times 10^5 \gg 16670$ ✔).
+1. $F = 1/T_s$ ($T_s = 5\ \mu$s lus) → $\boxed{F \approx 2\times 10^5\text{ Hz}}$ ✔ ; $f = 1/T_m$ ($T_m = 0,6$ ms) → $\boxed{f = 1667\text{ Hz}}$.
+2. $U_{max} = A(1+m)$, $U_{min} = A(1-m)$ → $A = (U_{max}+U_{min})/2 = \boxed{1\text{ V}}$ ; $m = (U_{max}-U_{min})/(U_{max}+U_{min}) \approx \boxed{0,45}$ (⚠️ énoncé ambigu : $U_{max}$/$U_{min}$ non relus — 0,45 = valeur cohérente, pas une lecture). $\boxed{\text{Bonne modulation}}$ : $m < 1$ ET $F > 10f$ ($2\times 10^5 \gg 16670$ ✔).
 🪤 *Piège testé : $T_s$ confondue avec $T_m$ (porteuse = petites oscillations rapides !) ; $m$ sans les 2 conditions (m<1 SEUL ne suffit pas !).*
 🗣️ الخلاصة : الحاملة سريعة ($F \approx 200$ kHz!) والمعدِّلة بطيئة ($f = 1667$ Hz)! $A = 1$ V و$m \approx 0,45$! والتضمين **مزيان**: $m < 1$ **و** $F > 10f$ (بجوج الشروط!)!
 
