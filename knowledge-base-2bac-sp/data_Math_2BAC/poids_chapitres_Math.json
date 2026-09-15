@@ -1,0 +1,22 @@
+{
+  "matiere": "Mathématiques 2BAC SP (sujet commun PC/SVT)",
+  "methode": "moteur = 0.7 * global_37_sessions + 0.3 * recent_TierA ; poids = moteur * 5 (somme = 100)",
+  "source": "ponderation_Math.md (Tier A exact 2023N/2025N/2026N + modèles calibrés)",
+  "date": "2026-09-15",
+  "poids": {
+    "M01_Limites_continuite": 5.09,
+    "M02_Derivation_etude_fonctions": 16.75,
+    "M03_Suites_numeriques": 12.58,
+    "M04_Fonctions_primitives": 2.5,
+    "M05_Fonction_logarithme_neperien": 6.93,
+    "M06_Nombres_complexes_partie1": 5.09,
+    "M07_Fonctions_exponentielles": 4.0,
+    "M08_Nombres_complexes_partie2": 11.55,
+    "M09_Calcul_integral": 7.91,
+    "M10_Equations_differentielles": 1.13,
+    "M11_Produit_scalaire_espace": 7.22,
+    "M12_Produit_vectoriel_espace": 7.22,
+    "M13_Denombrement": 2.41,
+    "M14_Probabilites": 9.62
+  }
+}
