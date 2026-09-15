@@ -1,0 +1,206 @@
+{
+ "meta": {
+  "sessions": 37,
+  "periode": "2008N-2026N (2026R manquant)",
+  "note": "P19/P20/P23 = transverses (convention: mobilises dans chaque exo de chimie). P16 = plancher 0.05.",
+  "melange_moteur": "0.7*global + 0.3*recent"
+ },
+ "chapitres": {
+  "P01": {
+   "poids_global": 4.61,
+   "poids_recent": 5.44,
+   "poids_moteur": 4.86,
+   "points_moyens": 1.01,
+   "freq_sessions": 16.9
+  },
+  "P02": {
+   "poids_global": 0.27,
+   "poids_recent": 0.18,
+   "poids_moteur": 0.25,
+   "points_moyens": 0.06,
+   "freq_sessions": 0.85
+  },
+  "P03": {
+   "poids_global": 1.92,
+   "poids_recent": 3.01,
+   "poids_moteur": 2.25,
+   "points_moyens": 0.42,
+   "freq_sessions": 6.75
+  },
+  "P04": {
+   "poids_global": 5.07,
+   "poids_recent": 6.29,
+   "poids_moteur": 5.44,
+   "points_moyens": 1.11,
+   "freq_sessions": 21.09
+  },
+  "P05": {
+   "poids_global": 0.73,
+   "poids_recent": 0.45,
+   "poids_moteur": 0.65,
+   "points_moyens": 0.16,
+   "freq_sessions": 2.91
+  },
+  "P06": {
+   "poids_global": 3.93,
+   "poids_recent": 2.88,
+   "poids_moteur": 3.61,
+   "points_moyens": 0.86,
+   "freq_sessions": 8.85
+  },
+  "P07": {
+   "poids_global": 5.3,
+   "poids_recent": 4.31,
+   "poids_moteur": 5.0,
+   "points_moyens": 1.16,
+   "freq_sessions": 9.93
+  },
+  "P08": {
+   "poids_global": 8.13,
+   "poids_recent": 7.32,
+   "poids_moteur": 7.89,
+   "points_moyens": 1.78,
+   "freq_sessions": 16.37
+  },
+  "P09": {
+   "poids_global": 3.7,
+   "poids_recent": 4.85,
+   "poids_moteur": 4.05,
+   "points_moyens": 0.81,
+   "freq_sessions": 7.85
+  },
+  "P10": {
+   "poids_global": 2.01,
+   "poids_recent": 1.39,
+   "poids_moteur": 1.82,
+   "points_moyens": 0.44,
+   "freq_sessions": 3.02
+  },
+  "P11": {
+   "poids_global": 4.98,
+   "poids_recent": 7.32,
+   "poids_moteur": 5.68,
+   "points_moyens": 1.09,
+   "freq_sessions": 9.03
+  },
+  "P12": {
+   "poids_global": 4.71,
+   "poids_recent": 3.77,
+   "poids_moteur": 4.43,
+   "points_moyens": 1.03,
+   "freq_sessions": 7.53
+  },
+  "P13": {
+   "poids_global": 1.42,
+   "poids_recent": 1.8,
+   "poids_moteur": 1.53,
+   "points_moyens": 0.31,
+   "freq_sessions": 2.68
+  },
+  "P14": {
+   "poids_global": 3.11,
+   "poids_recent": 2.83,
+   "poids_moteur": 3.02,
+   "points_moyens": 0.68,
+   "freq_sessions": 5.6
+  },
+  "P15": {
+   "poids_global": 6.03,
+   "poids_recent": 5.66,
+   "poids_moteur": 5.92,
+   "points_moyens": 1.32,
+   "freq_sessions": 10.96
+  },
+  "P16": {
+   "poids_global": 0.23,
+   "poids_recent": 0.22,
+   "poids_moteur": 0.23,
+   "points_moyens": 0.05,
+   "freq_sessions": 0
+  },
+  "P17": {
+   "poids_global": 2.97,
+   "poids_recent": 4.63,
+   "poids_moteur": 3.47,
+   "points_moyens": 0.65,
+   "freq_sessions": 4.92
+  },
+  "P18": {
+   "poids_global": 0.87,
+   "poids_recent": 0.0,
+   "poids_moteur": 0.61,
+   "points_moyens": 0.19,
+   "freq_sessions": 2.0
+  },
+  "P19": {
+   "poids_global": 4.11,
+   "poids_recent": 4.04,
+   "poids_moteur": 4.09,
+   "points_moyens": 0.9,
+   "freq_sessions": 37
+  },
+  "P20": {
+   "poids_global": 3.2,
+   "poids_recent": 3.14,
+   "poids_moteur": 3.18,
+   "points_moyens": 0.7,
+   "freq_sessions": 37
+  },
+  "P21": {
+   "poids_global": 11.47,
+   "poids_recent": 9.07,
+   "poids_moteur": 10.75,
+   "points_moyens": 2.51,
+   "freq_sessions": 19.25
+  },
+  "P22": {
+   "poids_global": 3.24,
+   "poids_recent": 5.44,
+   "poids_moteur": 3.9,
+   "points_moyens": 0.71,
+   "freq_sessions": 6.25
+  },
+  "P23": {
+   "poids_global": 2.74,
+   "poids_recent": 2.7,
+   "poids_moteur": 2.73,
+   "points_moyens": 0.6,
+   "freq_sessions": 37
+  },
+  "P24": {
+   "poids_global": 4.34,
+   "poids_recent": 4.85,
+   "poids_moteur": 4.49,
+   "points_moyens": 0.95,
+   "freq_sessions": 10.0
+  },
+  "P25": {
+   "poids_global": 5.62,
+   "poids_recent": 3.64,
+   "poids_moteur": 5.02,
+   "points_moyens": 1.23,
+   "freq_sessions": 13.0
+  },
+  "P26": {
+   "poids_global": 3.24,
+   "poids_recent": 3.01,
+   "poids_moteur": 3.17,
+   "points_moyens": 0.71,
+   "freq_sessions": 6.25
+  },
+  "P27": {
+   "poids_global": 0.27,
+   "poids_recent": 0.81,
+   "poids_moteur": 0.43,
+   "points_moyens": 0.06,
+   "freq_sessions": 0.33
+  },
+  "P28": {
+   "poids_global": 1.78,
+   "poids_recent": 0.94,
+   "poids_moteur": 1.53,
+   "points_moyens": 0.39,
+   "freq_sessions": 2.68
+  }
+ }
+}
